@@ -173,7 +173,7 @@ Download the components from this repository.
 Ensure the component source directory is in your Delphi library path to enable successful compilation of projects using these components:
 1. Go to **Tools** → **Options** in Delphi.
 2. In the search bar at the top right, type "library path" and select the relevant option.
-3. Add the output directory (e.g., `Win32\Release` or `Win64\Release` depending on your build configuration) of your compiled components to the **Library path**.
+3. Add the output directory (e.g., C:\Users\[YOUR WINDOWS USERNAME HERE]\[WHERE EVER YOU HAVE THEM STORED]\MorMot Encryption Components)
 
 **Important Note on Path Conflicts**: If you have existing mORMot2 library paths configured, you might encounter unit conflicts or issues with IntelliSense. It is recommended to manage your library paths carefully to avoid such conflicts. Sometimes, temporarily removing conflicting mORMot2 paths during component installation and then re-adding them after installation can help.
 
