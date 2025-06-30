@@ -1,0 +1,5 @@
+TMORMOTAES BITMAP "PaletteIcons\\TmORMotAES.bmp"
+TMORMOTHASH BITMAP "PaletteIcons\\TmORMotHash.bmp"
+TMORMOTHMAC BITMAP "PaletteIcons\\TmORMotHMAC.bmp"
+TMORMOTPBKDF2 BITMAP "PaletteIcons\\TmORMotPBKDF2.bmp"
+TMORMOTRANDOM BITMAP "PaletteIcons\\TmORMotRandom.bmp"

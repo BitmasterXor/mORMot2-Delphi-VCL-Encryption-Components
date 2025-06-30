@@ -1,0 +1,45 @@
+package mORMot2CryptoComponents;
+
+{$R *.res}
+{$R *.dres}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE RELEASE}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  designide,
+  vcl,
+  MorMotComponents;
+
+contains
+  mORMot2ComponentsAES in 'mORMot2ComponentsAES.pas',
+  mORMot2ComponentsHash in 'mORMot2ComponentsHash.pas',
+  mORMot2ComponentsHMAC in 'mORMot2ComponentsHMAC.pas',
+  mORMot2ComponentsPBKDF2 in 'mORMot2ComponentsPBKDF2.pas',
+  mORMot2ComponentsRandom in 'mORMot2ComponentsRandom.pas',
+  mORMot2ComponentsRegister in 'mORMot2ComponentsRegister.pas';
+
+end.
