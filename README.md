@@ -159,7 +159,7 @@ Generates cryptographically secure random data. This component is essential for 
 - mORMot2 framework installed and configured in your Delphi environment.
 
 ### Step 1: Download the Components ☁️
-Download the components from [This Github Repository](YOUR_REPOSITORY_LINK_HERE).
+Download the components from this repository.
 
 ### Step 2: Install in Delphi IDE 💻
 1. Open the `mORMot2Components.dproj` (or similar project file if renamed) in Delphi.
