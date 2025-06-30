@@ -201,6 +201,7 @@ Contributions are welcome! Please feel free to:
 
 ## Support ❓
 
+- Discord: bitmasterxor
 - **Issues**: Report bugs and feature requests via GitHub Issues on this repository.
 
 ## Changelog 📝
