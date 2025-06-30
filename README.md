@@ -5,7 +5,7 @@
 ## Overview
 
 <p align="center">
-  <img src="Preview.png" alt="Preview Image of Components">
+  <img src="preview.png" alt="Preview Image of Components">
 </p>
 
 These components provide a set of essential cryptographic functionalities for Delphi applications, leveraging the highly optimized and secure cryptographic primitives available within the mORMot2 framework. They are designed to be easy to integrate and use, offering a range of algorithms for encryption, hashing, HMAC, PBKDF2, and secure random number generation.
