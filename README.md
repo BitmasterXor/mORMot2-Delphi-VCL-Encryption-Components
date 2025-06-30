@@ -5,6 +5,10 @@
 ## Overview
 
 <p align="center">
+  <img src="palettepreview.png" alt="Preview Image of Components">
+</p>
+
+<p align="center">
   <img src="preview.png" alt="Preview Image of Components">
 </p>
 
